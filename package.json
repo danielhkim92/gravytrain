@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/danielhkim92/gravytrain#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.1.5",
+    "npm": "^6.1.0"
   }
 }
