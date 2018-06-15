@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danielhkim92/gravytrain/issues"
   },
-  "homepage": "https://github.com/danielhkim92/gravytrain#readme"
+  "homepage": "https://github.com/danielhkim92/gravytrain#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
